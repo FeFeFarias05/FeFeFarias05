@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou a Fernanda Farias 👋</h1>
 
-<!--
-**FeFeFarias05/FeFeFarias05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de <strong>Engenharia de Software</strong> na PUCRS | iOS Developer em formação 🍎🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Sobre mim
+
+- 🎓 Atualmente curso o **6º semestre de Engenharia de Software** na PUCRS  
+- 🍏 Desenvolvedora iOS com foco em **Swift** e boas práticas de desenvolvimento mobile  
+- 💡 Interesso-me por **desenvolvimento de aplicações móveis e web**, **design centrado no usuário**, **IA** e **tecnologias Apple**
+- 🔎 Estou sempre em busca de aprender, evoluir tecnicamente e participar de projetos desafiadores
+
+---
+
+## 🛠️ Tecnologias que tenho usado
+
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](www.linkedin.com/in/fernanda-farias-uberti-34507926b)
+
+---
+
+> “Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende.” – Leonardo da Vinci
