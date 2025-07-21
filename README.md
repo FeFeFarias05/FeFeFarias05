@@ -28,15 +28,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeFeFarias05&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeFeFarias05&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 📫 Contato
 
 - 💼 [LinkedIn](www.linkedin.com/in/fernanda-farias-uberti-34507926b)
