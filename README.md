@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Fernanda Farias 👋</h1>
 
 <p align="center">
-  Estudante de <strong>Engenharia de Software</strong> na PUCRS | iOS Developer em formação 🍎🚀
+  Estudante de <strong>Engenharia de Software</strong> na PUCRS | iOS Developer em formação no Apple Developer Academy PUCRS 🍎🚀
 </p>
 
 ---
