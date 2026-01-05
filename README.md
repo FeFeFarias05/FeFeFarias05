@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Atualmente curso o **6º semestre de Engenharia de Software** na PUCRS  
+- 🎓 Atualmente curso o **7º semestre de Engenharia de Software** na PUCRS  
 - 🍏 Desenvolvedora iOS com foco em **Swift** e boas práticas de desenvolvimento mobile  
 - 💡 Interesso-me por **desenvolvimento de aplicações móveis e web**, **design centrado no usuário**, **IA** e **tecnologias Apple**
 - 🔎 Estou sempre em busca de aprender, evoluir tecnicamente e participar de projetos desafiadores
