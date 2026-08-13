@@ -1,15 +1,15 @@
 <h1 align="center">Olá! Eu sou a Fernanda Farias 👋</h1>
 
 <p align="center">
-  Estudante de <strong>Engenharia de Software</strong> na PUCRS | iOS Developer em formação no Apple Developer Academy PUCRS 🍎🚀
+  Estudante de <strong>Engenharia de Software</strong> na PUCRS | iOS Developer em formação no Apple Developer Academy PUCRS e estagiária FullStack Developer na Procempa
 </p>
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Atualmente curso o **7º semestre de Engenharia de Software** na PUCRS  
-- 🍏 Desenvolvedora iOS com foco em **Swift** e boas práticas de desenvolvimento mobile  
+- 🎓 Atualmente curso o **8º semestre de Engenharia de Software** na PUCRS  
+- 🍎 Desenvolvedora iOS com foco em **Swift** e boas práticas de desenvolvimento mobile  
 - 💡 Interesso-me por **desenvolvimento de aplicações móveis e web**, **design centrado no usuário**, **IA** e **tecnologias Apple**
 - 🔎 Estou sempre em busca de aprender, evoluir tecnicamente e participar de projetos desafiadores
 
